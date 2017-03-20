@@ -1,2 +1,3 @@
 # Hello-World
-First Repository
+Start learning codeing,know nothing about code~ 
+It is a long way~
